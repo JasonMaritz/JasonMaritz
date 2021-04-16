@@ -1,3 +1,5 @@
+![Header](https://github.com/JasonMaritz/JasonMaritz/blob/main/Jason%20Maritz-2.png "Header")
+
 ### Hi! 👋
 
 My  name is Jason Maritz and I'm currently in my final year studying computer science at the University of Pretoria. Aspiring fullstack dev with some Network Administration experience.
