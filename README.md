@@ -12,7 +12,7 @@ My  name is Jason Maritz and I'm currently in my final year studying computer sc
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=ad1a1a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ad1a1a)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=docker&logoColor=white&color=ad1a1a)
-![](https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=docker&logoColor=white&color=ad1a1a)
+![](https://img.shields.io/badge/Tools-Postgres-informational?style=flat&logo=postgres&logoColor=white&color=ad1a1a)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=ad1a1a)
 ![](https://img.shields.io/badge/Cloud-Digital%20Ocean-informational?style=flat&logo=digitalOcean&logoColor=white&color=ad1a1a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=ad1a1a)
